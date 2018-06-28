@@ -1,0 +1,23 @@
+
+
+beautifulsoup4	4.6.0
+bitarray	0.8.1
+html5lib	0.9999999
+jieba	0.39
+lxml	4.1.0
+numpy	1.13.3
+pandas	0.20.3
+parsel	1.4.0
+pygame	1.9.3
+requests	2.18.2
+six	1.10.0
+urllib3	1.22
+re 
+tkinter
+Pillow
+csv
+webbrowser
+Crypto
+random
+time
+base64
